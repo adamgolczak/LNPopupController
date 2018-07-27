@@ -145,7 +145,7 @@ IB_DESIGNABLE
 {
 	if(color == nil)
 	{
-		color = [UIColor lightGrayColor];
+		color = [UIColor whiteColor];
 	}
 	
 	_color = color;
