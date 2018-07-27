@@ -44,7 +44,7 @@ IB_DESIGNABLE
 
 - (void)_commonInit
 {
-	self.color = [UIColor lightGrayColor];
+	self.color = [UIColor whiteColor];
 	self.width = _LNChevronDefaultWidth;
 	self.animationDuration = _LNChevronDefaultAnimationDuration;
 	
